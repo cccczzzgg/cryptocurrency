@@ -1,0 +1,18 @@
+# 加密货币
+# GOV 域名例外
+DOMAIN-KEYWORD,.gov
+# Bybit DE
+DOMAIN-SUFFIX,bymj.io
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit-aws.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
+# Coinbase DE
+DOMAIN-KEYWORD,coinbase
